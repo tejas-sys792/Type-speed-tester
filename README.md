@@ -57,17 +57,6 @@ gcc typing_tester.c -o typing_tester
 Run the executable:
 
 ./typing_tester
-
-🕹️ Example Output
-============ FINAL LEADERBOARD =============
-Name            WPM        Accuracy   Time(s)
----------------------------------------------
-Tejas           72.50      98.00      35.00
-Vishnu          60.20      95.00      40.00
-============================================
-
-🏆 Tejas wins with 72.50 WPM! 🏆
-
 🏆 Future Improvements
 
 🔸 Add color formatting for better UI
